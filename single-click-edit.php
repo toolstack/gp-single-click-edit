@@ -4,7 +4,7 @@ Plugin Name: GlotPress Single Click Edit
 Plugin URI: http://glot-o-matic.com/gp-single-click-edit
 Description: Enable editing of a translation with a single click as well as a double click in GlotPress.
 Version: 0.5
-Author: gregross
+Author: GregRoss
 Author URI: http://toolstack.com
 Tags: glotpress, glotpress plugin 
 License: GPLv2
