@@ -21,7 +21,9 @@ class GP_Single_Click_Edit {
 	}
 
 	public function gp_pre_tmpl_load( $template, $args ) {
-		gp_enqueue_script( 'gp-single-click-edit' );
+		if( 'translations' == $template ) {
+			gp_enqueue_script( 'gp-single-click-edit' );
+		}
 	}
 
 }
